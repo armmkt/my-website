@@ -1,4 +1,12 @@
-Welcome to My Website
+---
+layout: default
+title: Welcome to My Website
 ---
 
-add contents here.
+# My Markdown-based Website
+
+This page is written by Markdown.
+
+- can write easily
+- simple and easy to read
+- HTMLを手動で書く必要なし
